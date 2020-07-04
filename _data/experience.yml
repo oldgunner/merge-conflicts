@@ -1,21 +1,13 @@
 # Jobs
 
-# Trainer
-- company: GitHub, Inc.
-  position: GitHub Trainer
-  duration: March, 2012 &mdash; Present
-  summary: Teach all things Git, give away all the stickers, ensure world peace.
-
-# Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
-
-
-# Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  June 2016 &mdash; Present
-  summary: Provide world class support to customers on the GitHub for Business platform
-
+# Trainee
+- company: State Committee of Forensic Expertices
+  position: expert-trainee
+  duration: June, 2015 &mdash; March, 2017
+  summary: learn all fibers
+  
+# Expert
+- company: State Committee of Forensic Expertices
+  position: expert
+  duration: March, 2017 &mdash; Present
+  summary: explosive materials one love
